@@ -6,7 +6,7 @@ Türkiye'deki anlık deprem verilerini Kandilli Rasathanesi API altyapısını k
 ![WinForms](https://img.shields.io/badge/UI-Windows%20Forms-0078D7?style=flat-square&logo=windows&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
-![Deprem Takip App Arayüzü](DepremTakipApp/img_1.png)
+![Deprem Takip App Arayüzü](img_1.png)
 ---
 
 ## 🚀 Öne Çıkan Özellikler
